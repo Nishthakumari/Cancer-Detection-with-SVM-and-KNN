@@ -1,4 +1,4 @@
-# machine_learning_projects
+# Cancer Detection with SVM and KNN
 
 This is a machine learning project during my undergraduate studies that focuses on breast cancer detection using Support Vector Machines (SVM) and K-Nearest Neighbors (KNN). The project includes the following steps:
 
